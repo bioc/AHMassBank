@@ -1,3 +1,9 @@
+# AHMassBank 1.2
+
+## AHMassBank 1.2.1
+
+- Add data releases 2023.06, 2023.09 and 2023.11
+
 # AHMassBank 0.99
 
 ## AHMassBank 0.99.3
