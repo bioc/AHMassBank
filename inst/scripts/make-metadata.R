@@ -14,7 +14,8 @@ if (!"make-metadata.R" %in% dir())
     stop("run R in the inst/scripts/ folder")
 
 ## Update this variable!
-releases <- c("2025.05.1", "2025.10", "2026.03")
+## releases <- c("2025.05.1", "2025.10", "2026.03")
+releases <- c("2026.11")
 
 ## Update if the BiocVersion different from the current one.
 BiocVersion <- character()
